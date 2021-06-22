@@ -19,11 +19,6 @@ Aquí se buscaba agregar un objeto a la rutina de los pingüinos con el que inte
 
 # Proyectos Gráficos
 
-| Column 1 Heading | Column 2 Heading |
-| ---------------- | ---------------- |
-| ![1](/images/1.jpg)   | 
-![2](/images/2.jpg)   |
-
 ![1](/images/1.jpg)
 
 ![2](/images/2.jpg)
