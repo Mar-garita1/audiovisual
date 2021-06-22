@@ -19,17 +19,15 @@ Aquí se buscaba agregar un objeto a la rutina de los pingüinos con el que inte
 
 # Proyectos Gráficos
 
-![1](/images/1.jpeg)
+![1](/images/1.jpg)
 
-![1](/images/2.jpeg)
+![2](/images/2.jpg)
 
-![1](/images/3.jpeg)
+![3](/images/3.jpg)
 
-![1](/images/5.jpg)
+![4](/images/5.jpg)
 
-![1](/images/4.jpg)
-
-![1](/images/4.pdf)
+![5](/images/4.jpg) 
 
 
 
