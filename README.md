@@ -11,6 +11,18 @@ En este proyeccto se nos pedía realizar un juego online con algún objeto físi
 [Más Cucú](https://youtu.be/Hqoe-PSgrC8)
 
 
+# Proyecto colaboración Parque Metropolitano
+
+Aquí se buscaba agregar un objeto a la rutina de los pingüinos con el que interactuaran.
+
+[Algas](https://youtu.be/fV_98quh10E)
+
+# Proyectos Gráficos
+
+
+
+
+
 
 
 
